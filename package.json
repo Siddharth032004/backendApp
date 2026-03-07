@@ -16,13 +16,15 @@
     "express-session": "^1.19.0"
   },
   "repository": {
-  "type": "git",
-  "repository": {
-  "type": "git",
-  "url": "git+https://github.com/KarthikReddyAtmakur/Backend_app.git"
-},
-"bugs": {
-  "url": "https://github.com/KarthikReddyAtmakur/Backend_app/issues"
-},
-"homepage": "https://github.com/KarthikReddyAtmakur/Backend_app#readme"}
-  }
+    "type": "git",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/KarthikReddyAtmakur/Backend_app.git"
+    },
+    "bugs": {
+      "url": "https://github.com/KarthikReddyAtmakur/Backend_app/issues"
+    },
+    "homepage": "https://github.com/KarthikReddyAtmakur/Backend_app#readme"
+  },
+  "description": ""
+}
