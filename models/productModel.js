@@ -6,6 +6,7 @@ const productSchema = mongoose.Schema({
   imageUrl: { type: String },
 });
 const productModel = mongoose.model("products", productSchema);
+<<<<<<< HEAD
 
 export default productModel;
 
@@ -14,3 +15,7 @@ export default productModel;
 //   { id: 2, name: "Product 2", price: 150 },
 //   { id: 3, name: "Product 3", price: 120 },
 // ];
+=======
+export default productModel;
+
+>>>>>>> cf7355d157ec42e71439814a042495f23e5bcc24
